@@ -18,6 +18,6 @@ output1 = img.resize(SIZE_IMAGEN_PEQUE, Image.ANTIALIAS)
 output1.save('imagen_peque.jpg', quality=50)
 
 output2 = img.resize(SIZE_IMAGEN_BANNER, Image.ANTIALIAS)
-output2.save('imagen_banner.jpg', quality=90)
+output2.save('imagen_banner.jpg', quality=95)
 
 
