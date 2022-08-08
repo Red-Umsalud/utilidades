@@ -2,7 +2,7 @@
 
 Miniapps para facilitar el trabajo en Red-Umsalud
 
-## Instalacion
+## Instalación
 
 Primero es necesario clonar el repositorio con:
 
