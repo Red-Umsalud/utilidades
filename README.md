@@ -21,7 +21,7 @@ pip install -r requirements.txt
 ## Compresor de imágenes para la página de medicina
 
 Mediante la interfaz grafica en Windows solo es necesario arrastrar la imagen hacia el
-archivo ´compresor.py´.
+archivo `compresor.py`.
 
 O desde la terminal:
 
@@ -32,7 +32,7 @@ python compresor.py <nombredearchivo.jpg>
 ## Generador de códigos QR
 
 Desde la GUI de Windows se debe arrastar el archivo CSV hacia el archivo
-"generaqr.py". Las imágenes serán generadas en la misma carpeta.
+`generaqr.py`. Las imágenes serán generadas en la misma carpeta.
 
 O desde terminal:
 
