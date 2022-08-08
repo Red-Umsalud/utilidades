@@ -3,6 +3,7 @@ import sys
 
 # Syntaxis de ejecucion
 # python compresor.py <nombre del archivo.jpg>
+# Desde Windows es posible jalar la imagen hasta el archivo "compresor.py"
 
 RUTA_IMAGEN = str(sys.argv[1])
 SIZE_IMAGEN_PEQUE = (450,350)
