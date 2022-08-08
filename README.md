@@ -6,17 +6,17 @@ Miniapps para facilitar el trabajo en Red-Umsalud
 
 Primero es necesario clonar el repositorio con:
 
-´´´sh
+```sh
 git clone https://github.com/Red-Umsalud/utilidades.git
-´´´
+```
 
 Las herramientas requieren tener instalado Python 3.9 o superior. También es
 necesaria la instalación de las bibliotecas para el correcto funcionamiento
 con:
 
-´´´sh
+```sh
 pip install -r requirements.txt
-´´´
+```
 
 ## Compresor de imágenes para la página de medicina
 
@@ -25,9 +25,9 @@ archivo ´compresor.py´.
 
 O desde la terminal:
 
-´´´sh
+```sh
 python compresor.py <nombredearchivo.jpg>
-´´´
+```
 
 ## Generador de códigos QR
 
@@ -36,6 +36,6 @@ Desde la GUI de Windows se debe arrastar el archivo CSV hacia el archivo
 
 O desde terminal:
 
-´´´sh
+```sh
 python generaqr.py <nombredearchivo.csv>
-´´´
+```
